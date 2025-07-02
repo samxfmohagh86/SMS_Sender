@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">مرسل الرسائل</string>
+    <string name="phone_hint">رقم الهاتف</string>
+    <string name="message_hint">نص الرسالة</string>
+    <string name="send_button">إرسال</string>
+    <string name="send_success">تم إرسال الرسالة بنجاح!</string>
+    <string name="send_failed">فشل إرسال الرسالة: %s</string>
+    <string name="empty_fields">الرجاء تعبئة جميع الحقول</string>
+    <string name="permission_granted">تم منح الإذن</string>
+    <string name="permission_denied">الإذن مرفوض! لا يمكن إرسال الرسائل</string>
+</resources>
